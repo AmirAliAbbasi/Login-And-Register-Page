@@ -34,10 +34,10 @@ To run this project, you need a modern web browser like Google Chrome, Firefox, 
    
 2. Navigate to the project folder:
    ```bash
-   cd repository-name
+   cd Login-And-Register-Page
    ```
 
-3. Open `index.html` in your browser:
+3. Open `login.html` in your browser:
    - You can either double-click on the file or use a local development server like [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) for Visual Studio Code.
 
 ## 📌 Usage
@@ -57,11 +57,14 @@ To run this project, you need a modern web browser like Google Chrome, Firefox, 
 ```plaintext
 Login & Register Website/
 │
-├── index.html              # The main login page
+├── login.html              # The main login page
 ├── register.html           # The registration page
+├── Videos (for fun)/
+│   └── LOL.mp4  
 ├── styles/
 │   └── style.css           # CSS for styling the website
 ├── scripts/
+├── login.js
 │   └── register.js         # JavaScript for form validation and notifications
 ├── images/
 │   └── logo.png            # The logo used in the header

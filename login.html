@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plague Doctors | Login</title>
+    <link rel="icon" type="image/png" href="images/logo.png">
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+    <div class="login-container">
+        <div class="logo">
+            <img src="image/logo.png" alt="Plague Doctors Logo">
+        </div>
+        
+        <div id="notification-error" class="notification">
+            Username or Password is incorrect!
+    </div>
+
+        <div id="notification-success" class="notification success">
+            Login Successful!
+    </div>
+
+        <div class="login-box">
+            <h1>Login</h1>
+            <form id="login-form">
+                <input type="text" placeholder="Username" id="username" required>
+                <input type="password" placeholder="Password" id="password" required>
+                <button type="submit">Login</button>
+                <p class="register-link">Don't have an account? <a href="register.html" id="register-link">Register here</a></p>
+            </form>
+            
+        </div>
+    </div>
+    <script src="scripts/login.js"></script>
+</body>
+</html>

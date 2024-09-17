@@ -15,7 +15,7 @@ The **Plague Doctors Website** is a user-friendly platform featuring a login and
 
 ## Demo
 
-[![Watch the video](https://youtu.be/TACbVY-b-vw)]
+[![Watch the video](https://youtu.be/TACbVY-b-vw)
 
 Click the image to watch a demo video of the website on YouTube.
 

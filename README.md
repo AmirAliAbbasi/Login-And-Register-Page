@@ -77,4 +77,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-For any inquiries or issues, please reach out to the team at [Astro Co. Mail](astroco.business@gmail.com).
+For any inquiries or issues, please reach out to the team at [Astro Co. Mail](mailto:astroco.business@gmail.com).

@@ -57,6 +57,7 @@ To run this project, you need a modern web browser like Google Chrome, Firefox, 
 ```plaintext
 Login & Register Website/
 │
+├── dashboard.html 
 ├── login.html              # The main login page
 ├── register.html           # The registration page
 ├── Videos (for fun)/

@@ -15,17 +15,9 @@ The **Plague Doctors Website** is a user-friendly platform featuring a login and
 
 ## Demo
 
-[![Watch the video](https://img.youtube.com/vi/TACbVY-b-vw/LoginAndRegisterPage.jpg)](https://youtu.be/TACbVY-b-vw)
+[![Watch the video](https://youtu.be/TACbVY-b-vw)]
 
 Click the image to watch a demo video of the website on YouTube.
-
-## Screenshots
-
-### Registration Page
-![Registration Page](https://cdn.discordapp.com/attachments/1039967003538096258/1285664948386664448/Screenshot_2024-09-17_211309.png)
-
-### Login Page
-![Login Page](https://cdn.discordapp.com/attachments/1039967003538096258/1285664948688650270/Screenshot_2024-09-17_211007.png)
 
 ## Getting Started
 
